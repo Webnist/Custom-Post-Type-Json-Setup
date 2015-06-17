@@ -1,0 +1,120 @@
+# Copyright (C) 2015 Custom Post Type Setup
+# This file is distributed under the same license as the Custom Post Type Setup package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Post Type Setup 0.7.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/custom-post-type-"
+"setup\n"
+"POT-Creation-Date: 2015-06-17 18:27+0900\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-06-17 18:36+0900\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja_JP\n"
+
+#: includes/custom-post-type-setup.php:50
+#: includes/custom-post-type-setup.php:51
+#: includes/custom-post-type-setup.php:62
+#: includes/custom-post-type-setup.php:77
+#: includes/custom-post-type-setup.php:78
+msgid "%s"
+msgstr "%s"
+
+#: includes/custom-post-type-setup.php:52
+msgid "Add New"
+msgstr "新規作成"
+
+#: includes/custom-post-type-setup.php:53
+#: includes/custom-post-type-setup.php:87
+msgid "Add New %s"
+msgstr "新規%sを追加"
+
+#: includes/custom-post-type-setup.php:54
+#: includes/custom-post-type-setup.php:84
+msgid "Edit %s"
+msgstr "%sを編集"
+
+#: includes/custom-post-type-setup.php:55
+msgid "New %s"
+msgstr "新規%s"
+
+#: includes/custom-post-type-setup.php:56
+#: includes/custom-post-type-setup.php:85
+msgid "View %s"
+msgstr "%sを表示"
+
+#: includes/custom-post-type-setup.php:57
+#: includes/custom-post-type-setup.php:79
+msgid "Search %s"
+msgstr "%sを検索"
+
+#: includes/custom-post-type-setup.php:58
+#: includes/custom-post-type-setup.php:92
+msgid "No %s found."
+msgstr "%sが見つかりませんでした。"
+
+#: includes/custom-post-type-setup.php:59
+msgid "No %s found in Trash."
+msgstr "ゴミ箱内に%sが見つかりませんでした。"
+
+#: includes/custom-post-type-setup.php:60
+#: includes/custom-post-type-setup.php:83
+msgid "Parent %s:"
+msgstr "親%s:"
+
+#: includes/custom-post-type-setup.php:61
+#: includes/custom-post-type-setup.php:81
+msgid "All %s"
+msgstr "%s一覧"
+
+#: includes/custom-post-type-setup.php:80
+msgid "Popular %s"
+msgstr "人気の%s"
+
+#: includes/custom-post-type-setup.php:82
+msgid "Parent %s"
+msgstr "親%s"
+
+#: includes/custom-post-type-setup.php:86
+msgid "Update %s"
+msgstr "%sを更新"
+
+#: includes/custom-post-type-setup.php:88
+msgid "New %s Name"
+msgstr "新規%s名"
+
+#: includes/custom-post-type-setup.php:89
+msgid "Separate %s with commas"
+msgstr "%sが複数ある場合はコンマで区切ってください"
+
+#: includes/custom-post-type-setup.php:90
+msgid "Add or remove %s"
+msgstr "%sの追加もしくは削除"
+
+#: includes/custom-post-type-setup.php:91
+msgid "Choose from the most used %s"
+msgstr "よく使われている%sから選択"
+
+#. Plugin Name of the plugin/theme
+msgid "Custom Post Type Setup"
+msgstr "Custom Post Type Setup"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/custom-post-type-setup/"
+msgstr "http://wordpress.org/plugins/custom-post-type-setup/"
+
+#. Description of the plugin/theme
+msgid "set up a post from a JSON file"
+msgstr "JSONファイルからカスタムポストを設定"
+
+#. Author of the plugin/theme
+msgid "Webnist"
+msgstr "Webnist"
+
+#. Author URI of the plugin/theme
+msgid "http://profiles.wordpress.org/webnist"
+msgstr "http://profiles.wordpress.org/webnist"

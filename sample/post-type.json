@@ -1,0 +1,20 @@
+{
+  "name": "Post Type",
+  "post_type": {
+    "test": {
+      "label": "Test",
+      "menu_position": 5,
+      "supports": [
+        "title",
+        "editor"
+      ]
+    },
+    "test2": {
+      "label": "Test 2",
+      "menu_icon": "dashicons-carrot",
+      "supports": [
+        "editor"
+      ]
+    }
+  }
+}

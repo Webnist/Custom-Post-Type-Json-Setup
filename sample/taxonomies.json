@@ -1,0 +1,17 @@
+{
+  "name": "Taxonomy",
+  "taxonomies": {
+    "test_taxonomies": {
+      "label": "Test",
+      "post_type": "test"
+    },
+    "test_taxonomies_2": {
+      "label": "Test2",
+      "post_type": [
+        "test",
+        "test2"
+      ],
+      "hierarchical": false
+    }
+  }
+}

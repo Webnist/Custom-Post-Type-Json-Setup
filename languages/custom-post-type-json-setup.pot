@@ -1,0 +1,117 @@
+# Copyright (C) 2015 Custom Post Type Json Setup
+# This file is distributed under the same license as the Custom Post Type Setup package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Post Type Json Setup 0.7.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/custom-post-type-json-setup"
+"setup\n"
+"POT-Creation-Date: 2015-06-17 09:07:10+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/custom-post-type-json-setup.php:50
+#: includes/custom-post-type-json-setup.php:51
+#: includes/custom-post-type-json-setup.php:62
+#: includes/custom-post-type-json-setup.php:77
+#: includes/custom-post-type-json-setup.php:78
+msgid "%s"
+msgstr ""
+
+#: includes/custom-post-type-json-setup.php:52
+msgid "Add New"
+msgstr ""
+
+#: includes/custom-post-type-json-setup.php:53
+#: includes/custom-post-type-json-setup.php:87
+msgid "Add New %s"
+msgstr ""
+
+#: includes/custom-post-type-json-setup.php:54
+#: includes/custom-post-type-json-setup.php:84
+msgid "Edit %s"
+msgstr ""
+
+#: includes/custom-post-type-json-setup.php:55
+msgid "New %s"
+msgstr ""
+
+#: includes/custom-post-type-json-setup.php:56
+#: includes/custom-post-type-json-setup.php:85
+msgid "View %s"
+msgstr ""
+
+#: includes/custom-post-type-json-setup.php:57
+#: includes/custom-post-type-json-setup.php:79
+msgid "Search %s"
+msgstr ""
+
+#: includes/custom-post-type-json-setup.php:58
+#: includes/custom-post-type-json-setup.php:92
+msgid "No %s found."
+msgstr ""
+
+#: includes/custom-post-type-json-setup.php:59
+msgid "No %s found in Trash."
+msgstr ""
+
+#: includes/custom-post-type-json-setup.php:60
+#: includes/custom-post-type-json-setup.php:83
+msgid "Parent %s:"
+msgstr ""
+
+#: includes/custom-post-type-json-setup.php:61
+#: includes/custom-post-type-json-setup.php:81
+msgid "All %s"
+msgstr ""
+
+#: includes/custom-post-type-json-setup.php:80
+msgid "Popular %s"
+msgstr ""
+
+#: includes/custom-post-type-json-setup.php:82
+msgid "Parent %s"
+msgstr ""
+
+#: includes/custom-post-type-json-setup.php:86
+msgid "Update %s"
+msgstr ""
+
+#: includes/custom-post-type-json-setup.php:88
+msgid "New %s Name"
+msgstr ""
+
+#: includes/custom-post-type-json-setup.php:89
+msgid "Separate %s with commas"
+msgstr ""
+
+#: includes/custom-post-type-json-setup.php:90
+msgid "Add or remove %s"
+msgstr ""
+
+#: includes/custom-post-type-json-setup.php:91
+msgid "Choose from the most used %s"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Custom Post Type Setup"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/custom-post-type-json-setup/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "set up a post from a JSON file"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Webnist"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://profiles.wordpress.org/webnist"
+msgstr ""
